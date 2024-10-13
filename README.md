@@ -1,1 +1,6 @@
 # CodeAlpha_Hangman
+Welcome to the **Hangman Game**, an engaging Python-based word game that tests your knowledge of prominent tech companies! In this interactive game, a random company name—such as **Microsoft**, **Google**, or **Amazon**—is chosen, and your objective is to guess the name letter by letter while keeping track of your attempts. With **6 chances** to get it right, each guess is crucial, adding excitement to the gameplay.
+
+As you play, you'll receive real-time feedback on your progress, including which letters you've guessed and the current state of the word. This dynamic interaction enhances the experience, making it both fun and educational. If you manage to guess the company name correctly, you'll celebrate your victory; if not, the game reveals the correct answer, giving you a chance to learn something new.
+
+This project not only provides entertainment but also serves as a great showcase of fundamental Python skills such as **randomization**, **string manipulation**, and **user input handling**. Whether you’re brushing up on your coding skills or looking for a quick, enjoyable game, the **Hangman: Tech Company Challenge** offers the perfect blend of challenge and fun!
